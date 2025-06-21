@@ -1,0 +1,2 @@
+username,password,expected_result
+locked_out_user,secret_sauce,failure

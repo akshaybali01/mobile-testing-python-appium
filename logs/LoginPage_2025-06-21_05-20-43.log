@@ -1,0 +1,18 @@
+2025-06-21 05:20:44,862 - INFO - Typing and clicking..
+2025-06-21 05:20:44,900 - INFO - Clicking on ('accessibility id', 'test-Username')
+2025-06-21 05:20:44,983 - INFO - Typing locked_out_user on element ('accessibility id', 'test-Username')
+2025-06-21 05:20:46,598 - INFO - Typing and clicking..
+2025-06-21 05:20:47,436 - INFO - Clicking on ('accessibility id', 'test-Password')
+2025-06-21 05:20:47,509 - INFO - Typing secret_sauce on element ('accessibility id', 'test-Password')
+2025-06-21 05:20:48,991 - INFO - Clicking on ('accessibility id', 'test-LOGIN')
+2025-06-21 05:20:50,659 - INFO - Text from ('xpath', "//android.widget.TextView[contains(@text,'locked out')]"): Sorry, this user has been locked out.
+2025-06-21 05:20:51,063 - INFO - Text from ('xpath', "//android.widget.TextView[contains(@text,'locked out')]"): Sorry, this user has been locked out.
+2025-06-21 05:21:00,849 - INFO - Typing and clicking..
+2025-06-21 05:21:00,883 - INFO - Clicking on ('accessibility id', 'test-Username')
+2025-06-21 05:21:00,955 - INFO - Typing locked_out_user on element ('accessibility id', 'test-Username')
+2025-06-21 05:21:02,559 - INFO - Typing and clicking..
+2025-06-21 05:21:03,358 - INFO - Clicking on ('accessibility id', 'test-Password')
+2025-06-21 05:21:04,156 - INFO - Typing secret_sauce on element ('accessibility id', 'test-Password')
+2025-06-21 05:21:04,926 - INFO - Clicking on ('accessibility id', 'test-LOGIN')
+2025-06-21 05:21:06,599 - INFO - Text from ('xpath', "//android.widget.TextView[contains(@text,'locked out')]"): Sorry, this user has been locked out.
+2025-06-21 05:21:06,878 - INFO - Text from ('xpath', "//android.widget.TextView[contains(@text,'locked out')]"): Sorry, this user has been locked out.

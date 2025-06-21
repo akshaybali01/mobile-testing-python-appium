@@ -1,0 +1,20 @@
+2025-06-21 05:54:25,535 - INFO - Typing and clicking..
+2025-06-21 05:54:25,615 - INFO - Clicking on ('accessibility id', 'test-First Name')
+2025-06-21 05:54:25,737 - INFO - Typing Rockey on element ('accessibility id', 'test-First Name')
+2025-06-21 05:54:27,317 - INFO - Typing and clicking..
+2025-06-21 05:54:28,128 - INFO - Clicking on ('accessibility id', 'test-Last Name')
+2025-06-21 05:54:28,238 - INFO - Typing singh on element ('accessibility id', 'test-Last Name')
+2025-06-21 05:54:29,723 - INFO - Typing and clicking..
+2025-06-21 05:54:30,554 - INFO - Clicking on ('accessibility id', 'test-Zip/Postal Code')
+2025-06-21 05:54:30,647 - INFO - Typing 180001 on element ('accessibility id', 'test-Zip/Postal Code')
+2025-06-21 05:54:32,722 - INFO - Clicking on ('accessibility id', 'test-CONTINUE')
+2025-06-21 05:54:56,494 - INFO - Typing and clicking..
+2025-06-21 05:54:56,582 - INFO - Clicking on ('accessibility id', 'test-First Name')
+2025-06-21 05:54:57,499 - INFO - Typing Sandy on element ('accessibility id', 'test-First Name')
+2025-06-21 05:54:58,288 - INFO - Typing and clicking..
+2025-06-21 05:54:59,103 - INFO - Clicking on ('accessibility id', 'test-Last Name')
+2025-06-21 05:54:59,217 - INFO - Typing kumar on element ('accessibility id', 'test-Last Name')
+2025-06-21 05:55:00,708 - INFO - Typing and clicking..
+2025-06-21 05:55:01,575 - INFO - Clicking on ('accessibility id', 'test-Zip/Postal Code')
+2025-06-21 05:55:01,673 - INFO - Typing 192303 on element ('accessibility id', 'test-Zip/Postal Code')
+2025-06-21 05:55:04,261 - INFO - Clicking on ('accessibility id', 'test-CONTINUE')
