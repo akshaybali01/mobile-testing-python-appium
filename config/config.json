@@ -1,6 +1,6 @@
 {
   "platformName": "Android",
-  "udid": "emulator-5554",
+  "udid": "8936aa69",
   "appPackage": "com.swaglabsmobileapp",
   "appActivity": "com.swaglabsmobileapp.MainActivity",
   "automationName": "UiAutomator2",
