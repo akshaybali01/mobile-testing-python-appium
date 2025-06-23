@@ -43,7 +43,7 @@ def extract_stats_from_json(json_path):
                 summary.get("skipped", "NA")
             )
     except Exception as e:
-        print(f"❌ Error reading JSON report: {e}")
+        print(f"Error reading JSON report: {e}")
         return "NA", "NA", "NA", "NA"
 
 total, passed, failed, skipped = extract_stats_from_json(json_report)
@@ -57,4 +57,4 @@ generate_dashboard()
 # Step 7: Auto open dashboard
 #webbrowser.open("reports/dashboard.html")
 
-print("✅ Test run completed.")
+print("Test run completed.")
