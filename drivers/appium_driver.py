@@ -2,6 +2,9 @@ import json,os
 from appium import webdriver
 from appium.options.android import UiAutomator2Options
 
+from config import device_config
+
+
 # This commented was for one deivce .. loading config.json
 def load_config():
     with open("config/config.json") as f:
@@ -9,6 +12,10 @@ def load_config():
 
 def create_driver():
     config=load_config()
+    udid =device_config.device_id()
+    print('AKshay.. UDID',udid)
+    config['udid']=udid
+
     options=UiAutomator2Options().load_capabilities(config)
 
     os.system(f"adb -s {config['udid']} shell am force-stop {config['appPackage']}")

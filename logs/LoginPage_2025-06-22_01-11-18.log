@@ -1,7 +1,0 @@
-2025-06-22 01:11:19,915 - INFO - Typing and clicking..
-2025-06-22 01:11:19,986 - INFO - Clicking on ('accessibility id', 'test-Username')
-2025-06-22 01:11:20,083 - INFO - Typing standard_user on element ('accessibility id', 'test-Username')
-2025-06-22 01:11:21,633 - INFO - Typing and clicking..
-2025-06-22 01:11:22,349 - INFO - Clicking on ('accessibility id', 'test-Password')
-2025-06-22 01:11:23,161 - INFO - Typing secret_sauce on element ('accessibility id', 'test-Password')
-2025-06-22 01:11:23,956 - INFO - Clicking on ('accessibility id', 'test-LOGIN')

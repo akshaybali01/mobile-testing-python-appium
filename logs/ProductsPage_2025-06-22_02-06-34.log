@@ -1,6 +1,0 @@
-2025-06-22 02:06:35,962 - INFO - Clicking on ('xpath', "(//android.view.ViewGroup[@content-desc='test-ADD TO CART'])[1]")
-2025-06-22 02:06:36,283 - INFO - Clicking on ('accessibility id', 'test-Cart')
-2025-06-22 02:06:53,081 - INFO - Clicking on ('xpath', "(//android.view.ViewGroup[@content-desc='test-ADD TO CART'])[1]")
-2025-06-22 02:06:53,403 - INFO - Clicking on ('accessibility id', 'test-Cart')
-2025-06-22 02:07:28,097 - INFO - Clicking on ('xpath', "(//android.view.ViewGroup[@content-desc='test-ADD TO CART'])[1]")
-2025-06-22 02:07:28,442 - INFO - Clicking on ('accessibility id', 'test-Cart')

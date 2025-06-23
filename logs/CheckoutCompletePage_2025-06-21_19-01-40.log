@@ -1,4 +1,0 @@
-2025-06-21 19:01:42,384 - INFO - Text from ('xpath', "//android.widget.TextView[contains(@text,'THANK')]"): THANK YOU FOR YOU ORDER
-2025-06-21 19:01:42,593 - INFO - Text from ('xpath', "//android.widget.TextView[contains(@text,'THANK')]"): THANK YOU FOR YOU ORDER
-2025-06-21 19:02:16,179 - INFO - Text from ('xpath', "//android.widget.TextView[contains(@text,'THANK')]"): THANK YOU FOR YOU ORDER
-2025-06-21 19:02:16,479 - INFO - Text from ('xpath', "//android.widget.TextView[contains(@text,'THANK')]"): THANK YOU FOR YOU ORDER

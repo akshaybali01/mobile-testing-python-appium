@@ -1,0 +1,3 @@
+[devices]
+#udid = 8936aa69
+udid = emulator-5554
