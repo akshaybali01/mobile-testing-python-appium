@@ -72,7 +72,7 @@ def generate_dashboard(csv_path="reports/test_history.csv", output_path="reports
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(html)
 
-    print(f"✅ Dashboard generated at: {output_path}")
+    print(f"Dashboard generated at: {output_path}")
 
 
 if __name__ == "__main__":
